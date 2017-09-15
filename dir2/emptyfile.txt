@@ -1,0 +1,2 @@
+This is a new file we created as an example to the gitignore command
+
